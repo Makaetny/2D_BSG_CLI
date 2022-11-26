@@ -1,0 +1,3 @@
+# Project exclude paths
+/battleGame/target/
+/battleUI/target/
